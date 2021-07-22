@@ -1,0 +1,1 @@
+export const NO_BREEDS_SELECTED = 'No breeds selected. Click on "Manage Breeds" to find some'

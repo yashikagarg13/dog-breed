@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ManageBreedsModal Component renders correctly 1`] = `
+<ContextProvider
+  value={null}
+>
+  <ManageBreedsModal
+    breeds={
+      Array [
+        "hound",
+      ]
+    }
+    error=""
+    fetchBreeds={[Function]}
+    fetched={false}
+    loading={false}
+    store={
+      Object {
+        "dispatch": [Function],
+        "getAction": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "isActionDispatched": [Function],
+        "isActionTypeDispatched": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  />
+</ContextProvider>
+`;
